@@ -1,23 +1,29 @@
-## 저는요.. <!-- 나에 대해서 설명하는 부분 코드 블럭 -->
+## 🪄 저는요.. <!-- 나에 대해서 설명하는 부분 코드 블럭 -->
 
 ``` dart
 
 void main() {
-  runApp(자기소개());
+  runApp(introduction());
 }
-
-class 자기소개 extends StatelessWidget {
-  자기소개({super.key});
+class introduction extends StatelessWidget {
+  const introduction ({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: Appbar ( 이름 : 장성준 ),
-        body: ( height: 173 )
+        appBar: AppBar(
+        이름 : Text('장성준'),
         ),
-  );
+        상세정보 : SizedBox(
+        Text('나이 : 25 (2001년생)', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25)),
+        Text('그냥 코딩이 좋아요 시간 박치기하며, 풀어나가는 코딩이 좋아용~ 저의 결과물을 보고 싶으시면 밑으로 내려보세요!', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25)),
+        )
+      ),
+    );
+  }
 }
+
 
 ```
 
