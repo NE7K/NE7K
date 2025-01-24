@@ -22,10 +22,31 @@
 
 ## 😄 제가 사용하는 언어는 아래와 같아요
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+<details>
+<summary>Activity</summary>
+<div markdown="1">
+
+|기간|활동|기수|
+|:-:|-:|:-|
+|<sub>2024.02 ~ 24.12</sub> | SK **Devocean Young** | 3기 |
+|<sub>2024.02 ~ 24.07</sub> | Klaytn Dev Ambassador | 3기 |
+|<sub>2023.09 ~ 24.07</sub>| 교내 블록체인 학회 **Ewha Chain** | 12기 |
+|<sub>2023.07 ~ 23.08</sub>| 코드잇 엠버서더 | 1기 |
+|<sub>2023.07 ~ 23.08</sub>| 전국 연합 IT 동아리 **DND** | 9기 개발 |
+|<sub>2022.09 ~ 23.02</sub>| 신촌연합 IT 창업동아리 [**CEOS**](https://github.com/seondal/CEOS-FE-Study) | 16기 프론트 |
+|<sub>2022.09 ~ 23.02</sub>| 교내 정보보안 동아리 **E-COPS** | 11기 |
+|<sub>2021.09 ~ 22.02</sub>| 전국 대학생 연합 IT 창업동아리 **SOPT** | 29기 iOS |
+|<sub>2021.09 ~ 22.07</sub>| Google Developer Students Club Ewha | 3기 Core Member  |
+|<sub>2021.03 ~ 21.12</sub>| 교내 웹개발 커리어클럽 **EFUB** | 1기 프론트 |
+
+
+</div>
+</details>
 
 <!--
 **NE7K/NE7K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
