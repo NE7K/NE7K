@@ -6,47 +6,31 @@
 
 ```
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-
-
-## 😄 제가 사용하는 언어는 아래와 같아요
+## 😄 제가 근래에 자주 사용하는 언어는..
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
-
-<details>
-<summary>Activity</summary>
+## 🌱 현재까지 배워온 언어 및 활용 가능성
 <div markdown="1">
 
-|기간|활동|기수|
+|기간|언어|정도|
 |:-:|-:|:-|
-|<sub>2024.02 ~ 24.12</sub> | SK **Devocean Young** | 3기 |
-|<sub>2024.02 ~ 24.07</sub> | Klaytn Dev Ambassador | 3기 |
-|<sub>2023.09 ~ 24.07</sub>| 교내 블록체인 학회 **Ewha Chain** | 12기 |
-|<sub>2023.07 ~ 23.08</sub>| 코드잇 엠버서더 | 1기 |
-|<sub>2023.07 ~ 23.08</sub>| 전국 연합 IT 동아리 **DND** | 9기 개발 |
-|<sub>2022.09 ~ 23.02</sub>| 신촌연합 IT 창업동아리 [**CEOS**](https://github.com/seondal/CEOS-FE-Study) | 16기 프론트 |
-|<sub>2022.09 ~ 23.02</sub>| 교내 정보보안 동아리 **E-COPS** | 11기 |
-|<sub>2021.09 ~ 22.02</sub>| 전국 대학생 연합 IT 창업동아리 **SOPT** | 29기 iOS |
-|<sub>2021.09 ~ 22.07</sub>| Google Developer Students Club Ewha | 3기 Core Member  |
-|<sub>2021.03 ~ 21.12</sub>| 교내 웹개발 커리어클럽 **EFUB** | 1기 프론트 |
-
+|<sub>2015 ~ </sub> | JAVA, C, C++ | 안드로이드 애플리케이션 제작 |
+|<sub>2024 ~ </sub> | HTML | META 프론트엔드 자격증 취득 |
+|<sub>2025 ~ </sub> | DART | 안드로이드 및 아이폰 애플리케이션 제작 |
 
 </div>
-</details>
+
+<br>
+
+## 연락은 여기로 주세요
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/.azzul_carrot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".azzul_carrot" height="30" width="40" /></a>
+</p>
 
 <!--
 **NE7K/NE7K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
