@@ -30,7 +30,7 @@ class introduction extends StatelessWidget {
 ## 😄 제가 근래에 자주 사용하는 언어는..
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NE7K&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NE7K)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🌱 현재까지 배워온 언어 및 활용 가능성
