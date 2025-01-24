@@ -27,11 +27,14 @@ class introduction extends StatelessWidget {
 
 ```
 
-## 😄 제가 근래에 자주 사용하는 언어는..
+## 😄 제가 근래에 자주 사용하는 언어와 평판은...
 <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NE7K&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NE7K)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&multiline=true&random=true&width=435&lines=%EC%BD%94%EB%94%A9%EC%97%90+%EB%AF%B8%EC%B3%90%EC%84%9C+Dart%EB%A7%8C%ED%95%98%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94)](https://git.io/typing-svg)
 
 ## 🌱 현재까지 배워온 언어 및 활용 가능성
 <div markdown="1">
