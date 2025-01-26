@@ -20,11 +20,11 @@
 
 ## 📖 Basic Knowledge
 
-<img src="https://img.shields.io/badge/unity-0E1128?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/c%23-A8B9CC?style=for-the-badge&logo=c%23&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <br>
 </br>
