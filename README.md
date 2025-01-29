@@ -34,7 +34,7 @@
 <a href="https://discord.gg/.azzul_carrot" target="blank">
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-<a href="neighborsoft@gmail.com">
+<a href="mailto:neighborsoft@gmail.com">
 <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 </div>
