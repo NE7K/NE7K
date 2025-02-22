@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/meta-0467DF?style=for-the-badge&logo=meta&logoColor=white">
 
-**Meta Front-End Development - 2024.07.11**
+**Meta Front-End Development License - 2024.07.11**
 
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/java-A5915F?style=for-the-badge&logo=openjdk&logoColor=white">
