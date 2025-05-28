@@ -1,5 +1,12 @@
 
-<div align="center">
+<div align="left">
+
+## 💼 Career Overview
+
+ **2020 – 2021** · 🎯 *Freelance Developer*  
+ **2022 – 2023** · 🏥 *Healthcare Services Developer*  
+ **2024 – Present** · 🌐 *Google Campus Team Member*
+
 
 ## 🛠 Top Usage Languages
   
