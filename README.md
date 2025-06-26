@@ -9,7 +9,7 @@
 
 ## 🛠 Top Usage Languages
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NE7K&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NE7K&cache_seconds=100)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🪪 License and Tech Stack
 
