@@ -1,11 +1,5 @@
 <div align="center">
 
-## 💼 Career Overview
-
-#### **2020 – 2021** · *Freelance Developer*  
-#### **2022 – 2023** · *Healthcare Services Developer*  
-#### **2024 – Present** · *Google Campus Team Member*
-
 ## 🪪 License and Tech Stack
 
 <img src="https://img.shields.io/badge/Meta Front End Development License-0467DF?style=for-the-badge&logo=meta&logoColor=white">
